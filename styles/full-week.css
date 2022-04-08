@@ -1,16 +1,25 @@
-
-#home, #home a{
-    font-family: 'Oswald';
-    font-size: 20px;
+body{
+    align-items: center;
+}
+a {
     background-color: rgb(167, 1, 78);
     color: white;
     border-radius: 4px;
+    font-size: 24px;
 }
 
 a:hover{
     text-decoration: none;
+    background-color: rgb(180, 12, 90);
+    
 }
-#list {
+ol {
     color: #a04f2c;
     list-style: none;
+}
+
+li {
+    margin: 32px;
+    background-color: rgb(223, 136, 124);
+    border-radius: 6px;
 }
