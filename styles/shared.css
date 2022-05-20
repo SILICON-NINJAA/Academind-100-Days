@@ -1,24 +1,24 @@
 body {
-    background-color: #e9d7cf;
-    text-align: center;
-    margin: 50px;
+  background-color: #e9d7cf;
+  text-align: center;
+  margin: 50px;
 }
 
 h1 {
-    font-family: 'Oswald';
-    color: #a04f2c;
-    font-size: 50px;
+  font-family: "Oswald";
 }
 
 p {
-    font-family: 'Fira sans', sans-serif;
+  font-family: "Fira sans", sans-serif;
+  font-size: 24px;
 }
 
 a {
-    text-decoration: none;
-    color: rgb(167, 1, 78);
+  font-family: "Fira Sans";
+  text-decoration: none;
+  color: rgb(167, 1, 78);
 }
 
 a:hover {
-    text-decoration: underline
+  text-decoration: underline;
 }

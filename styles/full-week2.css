@@ -1,0 +1,49 @@
+h1{
+    font-size: 50px;
+}
+
+.description{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+a{
+    background-color: rgb(211, 94, 94);
+    color: white;
+    border-radius: 3px;
+    padding: 8px 16px;
+    text-decoration: none;
+    margin: 5px;
+    display: inline-block;
+    font-size: 30px;
+}
+
+ul{
+    list-style: none;
+    padding: 0px;
+    width: 500px;
+    margin: 0px auto;
+}
+
+li{
+    background-color: rgb(228, 115, 100);
+    padding: 30px;
+    margin: 32px 32px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+
+li:hover {
+    background-color: rgb(204, 104, 91);
+    color: aliceblue;
+}
+
+li h3{
+    font-family: 'Oswald', sans-serif;
+    margin: 20px 32px;
+}
+
+li p{
+    font-family: 'Oswald', sans-serif;
+    margin: 12px;
+}
