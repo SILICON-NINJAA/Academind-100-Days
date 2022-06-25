@@ -39,7 +39,8 @@ li {
   padding: 40px;
   background-color: rgb(223, 136, 124);
   border-radius: 6px;
-  box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.3);
+  box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.3);
+  border: solid 2px ;
 }
 
 li > h3 {
@@ -52,5 +53,9 @@ li > p {
 }
 
 .highlight-goal {
-  background-color: rgb(228, 115, 100);
+  background-color: rgb(143, 228, 100);
+}
+
+.unknown-goal {
+  background-color: rgb(235, 102, 85);
 }
